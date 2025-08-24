@@ -43,5 +43,3 @@ next-env.d.ts
 .railway
 railway.toml
 
-# Nixpacks
-.nixpacks
